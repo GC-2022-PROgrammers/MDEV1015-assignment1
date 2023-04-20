@@ -1,3 +1,5 @@
 import ThemeContext from '../contexts/ThemeContext';
 
-export default ThemeProvider = ThemeContext.Provider;
+const ThemeProvider = ThemeContext.Provider;
+
+export default ThemeProvider;
